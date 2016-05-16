@@ -45,6 +45,8 @@ Good:
 
 ## Main
 
+> Note: Please notice that the `<main>` content is actually a `Text content` element and not a sectioning one. However, for convenience reasons (while the `Text content` section is not ready) it will stay here, given that people looking for a better division of their applications would first look for it here.
+
 ### Use the `<main>` element to identify the main content of the document.
 
 > **[?]** The `<main>` element represents the main content of a document. It indicates content that is directly related to the central topic of a document, or the central functionality of an application. **There can be only one `<main>` element in a document.**
