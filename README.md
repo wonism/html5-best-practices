@@ -16,19 +16,19 @@ A collection of Community's acclaimed best practices, advices and notes for writ
 
 ## Table of Contents :zap:
 
-1. [Root element](#) *work in progress*
-2. [Document Metadata](content/document-metadata.md) **READY**
-3. [Sections](content/sections.md) **READY**
-4. [Grouping content](#) *work in progress*
-5. [Text-level semantics](#) *work in progress*
-6. [Edits](#) *work in progress*
-7. [Embedded content](#) *work in progress*
-8. [Links](#) *work in progress*
-9. [Tabular data](#) *work in progress*
-10. [Forms](#) *work in progress*
-11. [Scripting](content/scripting.md) **READY**
-12. [Markup Style](content/markup-style.md) **READY**
-13. [Other](#) *work in progress*
+1. [Basic element](#) *work in progress*
+2. [Document Metadata](content/document-metadata.md)
+3. [Content Sectioning](content/content-sectioning.md)
+4. [Text Content](content/text-content.md) *almost done - next release*
+5. [Inline Text Semantics](content/inline-text-semantics.md) *work in progress*
+6. [Image and Multimedia](#) *work in progress*
+7. [Embedded Content](#) *work in progress*
+8. [Demarcating Edits](#) *work in progress*
+9. [Interactive Elements](#) *currently under study*
+10. [Table Content](#) *work in progress*
+11. [Forms](#) *work in progress*
+12. [Scripting](content/scripting.md)
+13. [Markup Style](content/markup-style.md)
 
 ## Why this? :two_hearts:
 
